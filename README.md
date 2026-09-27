@@ -446,15 +446,11 @@
 
 <div align="center">
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=suad-npm&layout=donut&theme=dark&hide_border=true&langs_count=8"
+  src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=suad-npm"
   width="420"
   alt="Most Used Languages"
 />
-
-</a>
 
 </div>
 
