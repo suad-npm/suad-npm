@@ -1,43 +1,49 @@
 <div align="center">
 
+<!-- ===================== BANNER ===================== -->
+
 <img src="./banner.png" alt="Md Razit Ahmed Suad" width="100%"/>
 
 <br/><br/>
 
+<!-- ===================== NAME ANIMATION ===================== -->
+
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=F97316&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Md+Razit+Ahmed+Suad;Full+Stack+Developer;Building+Ideas+Into+Reality+%F0%9F%9A%80"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=F97316&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Md+Razit+Ahmed+Suad;Full+Stack+Developer;Building+Ideas+Into+Reality+%F0%9F%9A%80"
   alt="Typing SVG"
 />
 
 <br/>
 
 <p>
-Passionate about building modern, scalable and user-friendly web applications.
+  Passionate about building modern, scalable and user-friendly web applications.
 </p>
 
 <br/>
 
+<!-- ===================== SOCIAL LINKS ===================== -->
+
 <a href="https://linkedin.com/in/suad-npm">
-<img
-  src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-  alt="LinkedIn"
-/>
+  <img
+    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
 </a>
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 
 <a href="mailto:razit.ahmed05@gmail.com">
-<img
-  src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-  alt="Gmail"
-/>
+  <img
+    src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Gmail"
+  />
 </a>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 - 🌱 I’m currently learning **Next.js, TypeScript, Node.js, MongoDB & GSAP**
 - 👯 I’m looking to collaborate on **Full Stack Web Development Projects**
@@ -50,199 +56,339 @@ Passionate about building modern, scalable and user-friendly web applications.
 
 # 💻 Programming Languages
 
-<div align="center">
+<table>
+<tr>
+<td align="center" width="120">
 
-<a href="https://www.cprogramming.com/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="55" height="55" alt="C"/>
-</a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="55" height="55"/>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+<br/>
 
-<a href="https://www.w3schools.com/cpp/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="55" height="55" alt="C++"/>
-</a>
+<b>C</b>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+</td>
 
-<a href="https://www.java.com/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="55" height="55" alt="Java"/>
-</a>
+<td align="center" width="120">
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="55" height="55"/>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="55" height="55" alt="JavaScript"/>
-</a>
+<br/>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+<b>C++</b>
 
-<a href="https://www.python.org/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="55" height="55" alt="Python"/>
-</a>
+</td>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+<td align="center" width="120">
 
-<a href="https://www.typescriptlang.org/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="55" height="55" alt="TypeScript"/>
-</a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="55" height="55"/>
 
-</div>
+<br/>
+
+<b>Java</b>
+
+</td>
+
+<td align="center" width="120">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="55" height="55"/>
+
+<br/>
+
+<b>JavaScript</b>
+
+</td>
+
+<td align="center" width="120">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="55" height="55"/>
+
+<br/>
+
+<b>Python</b>
+
+</td>
+
+<td align="center" width="120">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="55" height="55"/>
+
+<br/>
+
+<b>TypeScript</b>
+
+</td>
+</tr>
+</table>
 
 ---
 
 # 🎨 Frontend Development
 
-<div align="center">
+<table>
+<tr>
 
-<a href="https://www.w3.org/html/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="55" height="55" alt="HTML5"/>
-</a>
+<td align="center" width="120">
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="55" height="55"/>
 
-<a href="https://www.w3schools.com/css/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="55" height="55" alt="CSS3"/>
-</a>
+<br/>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+<b>HTML5</b>
 
-<a href="https://react.dev/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="55" height="55" alt="React"/>
-</a>
+</td>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+<td align="center" width="120">
 
-<a href="https://nextjs.org/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="55" height="55" alt="Next.js"/>
-</a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="55" height="55"/>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+<br/>
 
-<a href="https://tailwindcss.com/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="55" height="55" alt="Tailwind CSS"/>
-</a>
+<b>CSS3</b>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+</td>
 
-<a href="https://daisyui.com/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/daisyui/daisyui-original.svg" width="55" height="55" alt="DaisyUI"/>
-</a>
+<td align="center" width="120">
 
-</div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="55" height="55"/>
+
+<br/>
+
+<b>JavaScript</b>
+
+</td>
+
+<td align="center" width="120">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="55" height="55"/>
+
+<br/>
+
+<b>React</b>
+
+</td>
+
+<td align="center" width="120">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="55" height="55"/>
+
+<br/>
+
+<b>Next.js</b>
+
+</td>
+
+<td align="center" width="120">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="55" height="55"/>
+
+<br/>
+
+<b>Tailwind CSS</b>
+
+</td>
+
+<td align="center" width="120">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/daisyui/daisyui-original.svg" width="55" height="55"/>
+
+<br/>
+
+<b>DaisyUI</b>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 # ⚙️ Backend Development
 
-<div align="center">
+<table>
+<tr>
 
-<a href="https://nodejs.org/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="55" height="55" alt="Node.js"/>
-</a>
+<td align="center" width="140">
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="55" height="55"/>
 
-<a href="https://www.djangoproject.com/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="55" height="55" alt="Django"/>
-</a>
+<br/>
 
-</div>
+<b>Node.js</b>
+
+</td>
+
+<td align="center" width="140">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="55" height="55"/>
+
+<br/>
+
+<b>Django</b>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 # 🗄️ Database & Backend Services
 
-<div align="center">
+<table>
+<tr>
 
-<a href="https://www.mongodb.com/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="55" height="55" alt="MongoDB"/>
-</a>
+<td align="center" width="140">
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="55" height="55"/>
 
-<a href="https://www.mysql.com/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="55" height="55" alt="MySQL"/>
-</a>
+<br/>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+<b>MongoDB</b>
 
-<a href="https://firebase.google.com/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="55" height="55" alt="Firebase"/>
-</a>
+</td>
 
-</div>
+<td align="center" width="140">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="55" height="55"/>
+
+<br/>
+
+<b>MySQL</b>
+
+</td>
+
+<td align="center" width="140">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="55" height="55"/>
+
+<br/>
+
+<b>Firebase</b>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 # 🎬 Animation & Libraries
 
-<div align="center">
+<table>
+<tr>
 
-<a href="https://gsap.com/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gsap/gsap-original.svg" width="55" height="55" alt="GSAP"/>
-</a>
+<td align="center" width="140">
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gsap/gsap-original.svg" width="55" height="55"/>
 
-<a href="https://www.npmjs.com/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="65" height="55" alt="NPM"/>
-</a>
+<br/>
 
-</div>
+<b>GSAP</b>
+
+</td>
+
+<td align="center" width="140">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="65" height="55"/>
+
+<br/>
+
+<b>NPM</b>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 # 🛠️ Tools & Technologies
 
-<div align="center">
+<table>
+<tr>
 
-<a href="https://git-scm.com/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="55" height="55" alt="Git"/>
-</a>
+<td align="center" width="120">
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="55" height="55"/>
 
-<a href="https://github.com/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="55" height="55" alt="GitHub"/>
-</a>
+<br/>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+<b>Git</b>
 
-<a href="https://www.figma.com/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="55" height="55" alt="Figma"/>
-</a>
+</td>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+<td align="center" width="120">
 
-<a href="https://www.arduino.cc/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="55" height="55" alt="Arduino"/>
-</a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="55" height="55"/>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+<br/>
 
-<a href="https://prettier.io/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prettier/prettier-original.svg" width="55" height="55" alt="Prettier"/>
-</a>
+<b>GitHub</b>
 
-</div>
+</td>
+
+<td align="center" width="120">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="55" height="55"/>
+
+<br/>
+
+<b>Figma</b>
+
+</td>
+
+<td align="center" width="120">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="55" height="55"/>
+
+<br/>
+
+<b>Arduino</b>
+
+</td>
+
+<td align="center" width="120">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prettier/prettier-original.svg" width="55" height="55"/>
+
+<br/>
+
+<b>Prettier</b>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 # ☁️ Deployment & Hosting
 
-<div align="center">
+<table>
+<tr>
 
-<a href="https://vercel.com/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="55" height="55" alt="Vercel"/>
-</a>
+<td align="center" width="140">
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="55" height="55"/>
 
-<a href="https://www.netlify.com/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" width="55" height="55" alt="Netlify"/>
-</a>
+<br/>
 
-</div>
+<b>Vercel</b>
+
+</td>
+
+<td align="center" width="140">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" width="55" height="55"/>
+
+<br/>
+
+<b>Netlify</b>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -253,8 +399,8 @@ Passionate about building modern, scalable and user-friendly web applications.
 <a href="https://linkedin.com/in/suad-npm">
 <img
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
-  width="45"
-  height="45"
+  width="50"
+  height="50"
   alt="LinkedIn"
 />
 </a>
@@ -264,8 +410,8 @@ Passionate about building modern, scalable and user-friendly web applications.
 <a href="mailto:razit.ahmed05@gmail.com">
 <img
   src="https://cdn.simpleicons.org/gmail"
-  width="45"
-  height="45"
+  width="50"
+  height="50"
   alt="Gmail"
 />
 </a>
@@ -300,11 +446,15 @@ Passionate about building modern, scalable and user-friendly web applications.
 
 <div align="center">
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+
 <img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=suad-npm&layout=donut&theme=dark&hide_border=true&langs_count=8"
-  width="400"
+  width="420"
   alt="Most Used Languages"
 />
+
+</a>
 
 </div>
 
